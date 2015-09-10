@@ -1,0 +1,6 @@
+This repository maintains SSH configuration files for the Docker-based
+build and deployment environments.
+
+It shall contain a 4096-bit RSA key pair to be used as deployment key
+for Git repositories hosted on bitbucket.org and a known_hosts file
+prefilled with the public key of this site.
